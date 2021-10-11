@@ -1,0 +1,22 @@
+.about-container{
+    background-color: rgb(230, 221, 221);
+    padding-bottom: 10px;
+}
+.tutor-img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+}
+.single-tutor{
+    text-align: start;
+    background-color: whitesmoke;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.tutor-container{
+    margin-left: 140px;
+    /* padding-left: 10px; */
+}
+/* .single-tutor{
+    display: flex;
+} */

@@ -1,0 +1,15 @@
+.items {
+    list-style: none;
+    margin-right: 30px;
+    font-size: 22px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .items:hover {
+    color: rgb(14, 145, 168);
+  }
+  .home{
+    color: blue;
+  }

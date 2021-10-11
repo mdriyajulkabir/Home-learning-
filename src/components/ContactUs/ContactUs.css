@@ -1,0 +1,10 @@
+.form-container{
+    margin-left: 250px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 1px ;
+    width: 1000px;
+}
+.form-first{
+    background-color: rgb(25, 189, 80);
+}
